@@ -1,0 +1,73 @@
+h1{
+color: rgb(247,7,29,1);
+}
+
+article li{
+color:#00f;
+}
+
+article li strong{
+
+	color:#000;
+}
+
+aside{
+float: left;
+width: 30%;
+clear: both;
+}
+section{
+	float: left;
+	width: 100%;
+}
+
+#formacion{
+	float: left;
+	width: 50%;
+}
+
+#Experiencia{
+	float:left;
+	width: 50%
+}
+
+article li.actual{
+font-weight: bolder;
+font-size:1.2em; 
+}
+
+#formacion ul li:first-child{
+font-weight: bolder;
+font-size:1.2em; 
+}
+
+nav ul{
+	padding: 0;
+}
+
+nav ul li{
+display: inline;
+}
+nav ul li a{
+	font-family: arial;
+	font-size: 11px;
+	text-decoration: none;
+	float: left;
+	padding: 10px;
+	background-color:#2175bc; 
+	color:#FFF; 
+}
+nav ul li a:hover{
+
+	background-color: #2586d7: 
+margin-top:-2px;
+padding-bottom: 12px: 	
+}
+
+
+footer{
+clear:both;
+
+}
+
+
